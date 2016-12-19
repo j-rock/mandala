@@ -1,3 +1,5 @@
 # mandala
 
-ITS ART MAYBE
+---
+stack exec mandala -- --outfile='target.png'
+---
